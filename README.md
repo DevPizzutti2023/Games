@@ -1,1 +1,1 @@
-Hi, i am a young programmer, and here, i will add/post my games in Pygame code!
+Hello, I'm a young programmer, and I'll be sharing my Pygame code here! Stay tuned for updates as I showcase my game development projects.
